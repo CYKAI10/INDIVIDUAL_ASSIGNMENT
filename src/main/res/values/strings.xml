@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Individual Assignment</string>
+
+    <string name="color_red">Red</string>
+    <string name="color_green">Green</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_grey">Grey</string>
+
+
+    <string name="settings_header_sound">Sounds</string>
+
+    <string name="scoreboard_title">Scoreboard</string>
+    <string name="scoreboard_subtitle">Top 25 Scores</string>
+    <string name="scoreboard_dialog_title">Enter your name</string>
+    <string name="scoreboard_dialog_message">"SPECTACULAR!!! New high score! Enter your name:"</string>
+    <string name="scoreboard_dialog_positive_button">Save</string>
+    <string name="high_scores_title">High Scores</string>
+    <string name="scoreboard_dialog_negative_button">Cancel</string>
+
+
+    <!-- Shared Preferences Values -->
+    <string name="high_score">0</string>
+    <string name="longest_time">0.00</string>
+
+
+
+
+</resources>
